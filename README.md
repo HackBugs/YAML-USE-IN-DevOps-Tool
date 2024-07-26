@@ -1,8 +1,8 @@
 # YAML-USE-IN-DevOps-Tool
 
 Here’s the directory structure for each tool listed, along with the corresponding `mkdir` and `touch` commands to create them.
-    - `### Directory Structure of all Devops Tools`
-    - `### How to create - Create the Directory Structure of this tool`
+    - `Directory Structure of all Devops Tools`
+    - `How to create - Create the Directory Structure of this tool`
 
 ### **1. Ansible**
 **Directory Structure:**
